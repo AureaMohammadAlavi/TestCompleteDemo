@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{90D101C8-80C7-48D4-9055-2E451B9BCD75}" version="1400" key="{AAE27D9F-D97A-4C58-AFF1-62A2ED5904B0}" typeId="{90D101C8-80C7-48D4-9055-2E451B9BCD75}">
+	<config nodeName="TestedApps" />
+	<testData />
+	<data />
+	<children>
+		<child key="{5E0912A3-C231-4640-9CBB-5BBB2C0BCD98}">
+			<config nodeName="Orders_Desktop" autorunOnRecording="False" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="True">
+				<runModeParams activeRunMode="Simple">
+					<param name="RunAs" parameters="" workFolder="" userName="" password="" domain="" />
+					<param name="Profile" parameters="" workFolder="" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="0" forceRunMode="False" />
+					<param name="Debug" parameters="" workFolder="" />
+					<param name="Simple" fileName="Orders.exe" filePath="C:\Users\Public\Documents\TestComplete 14 Samples\Desktop\Orders\C#\bin\Release\" parameters="" workFolder="" />
+				</runModeParams>
+			</config>
+			<testData />
+			<data />
+		</child>
+		<child key="{F1B2EE26-6DF2-433A-A4AD-CD7D00D62696}">
+			<config nodeName="orders" autorunOnRecording="False" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="False">
+				<runModeParams activeRunMode="Java">
+					<param name="Java" parameters="" workFolder="" jvmExecutable="C:\Program Files\Java\jre1.8.0_231\Bin\javaw.exe" runAsJar="True" jarFileName="C:\Users\Public\Documents\TestComplete 14 Samples\Desktop\Orders\Swing\orders.jar" entryPoint="" classPaths="" applicationArguments="-Dswing.disablevistaanimation=true" options="" />
+				</runModeParams>
+			</config>
+			<testData />
+			<data />
+		</child>
+		<child key="{C0818256-9A3C-4BE9-B9D5-DE9F3BDA35EF}">
+			<config nodeName="UnitTestingDemoApp" autorunOnRecording="False" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="False">
+				<runModeParams activeRunMode="Java">
+					<param name="Java" parameters="" workFolder="C:\Users\Public\Documents\TestComplete 14 Samples\Desktop\Unit Testing\Swing" jvmExecutable="C:\Program Files\Java\jre1.8.0_231\Bin\java.exe" runAsJar="False" jarFileName="" entryPoint="UnitTestingDemoApp" classPaths="C:\Users\Public\Documents\TestComplete 14 Samples\Desktop\Unit Testing\Swing\tcJavaUnitTesting.jar&#13;&#10;C:\Users\Public\Documents\TestComplete 14 Samples\Desktop\Unit Testing\Swing&#13;&#10;" applicationArguments="" options="" />
+				</runModeParams>
+			</config>
+			<testData />
+			<data />
+		</child>
+	</children>
+</Root>

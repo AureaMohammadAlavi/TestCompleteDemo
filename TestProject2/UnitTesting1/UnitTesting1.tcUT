@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{CCBF15D3-5453-4E8D-891C-1C74B57C6979}" version="14.0">
+	<children>
+		<child name="TCUnitTest1" key="{BE604976-6280-4DAD-9831-BEE13E67BC54}" type="TCUnitTest" typeId="{A27365C8-F012-4712-90A9-C8217A590BEF}" pluginName="TestComplete Unit Testing" path="TCUnitTest1\TCUnitTest1.tcTest" />
+	</children>
+</Root>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{F6D35803-DDC0-4FCC-9248-B539789D633E}">
+	<children>
+		<child name="TestProject2" key="{4BCD721B-CF70-4048-BE95-1F746D9727AD}" path="TestProject2\TestProject2.mds" />
+	</children>
+	<testItems key="{64667F62-DD39-4810-8EE1-7750B78F94C2}">
+		<children>
+			<testItem key="{4BCD721B-CF70-4048-BE95-1F746D9727AD}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{342EEA62-7DE6-4DB9-B8A1-7A1DA0BAC52F}">
+		<data Version="3" />
+	</variables>
+	<analysis key="{29F27AD6-7AF4-45F1-B81C-5D3081419D51}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+	<extender key="{1A3FC97E-9A66-4716-B166-35D10B4146E0}">
+		<CrossBrowserTesting Enable="False" />
+	</extender>
+</Root>

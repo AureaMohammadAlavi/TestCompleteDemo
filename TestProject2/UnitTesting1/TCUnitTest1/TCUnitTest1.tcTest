@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{A27365C8-F012-4712-90A9-C8217A590BEF}" version="14.0">
+	<data process="java" mode="1" caption="" type="0" selected="True" id="{7F64938F-0D72-4798-A85B-EEE55EAEDD00}">
+		<child caption="New Test" type="1" selected="True" id="{E7A77378-6572-4A43-AFB6-B851AEA987C5}" className="" methodName="fuck" />
+		<child caption="New Test 1" type="1" selected="True" id="{5ED930A7-0B4A-4BD3-81A8-54CFBB11A37E}" className="" methodName="ffff" />
+	</data>
+</Root>
